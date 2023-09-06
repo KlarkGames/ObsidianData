@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "5cde2638e22ddb1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6d9f37a5ac393a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bd3db872842c629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Паттерны проектирования/Петтерны проектирования.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "231465add55789ba",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Pasted image 20221104195043.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b6088bf5dae5d15",
+    "type": "split",
+    "children": [
+      {
+        "id": "903baeb8d9bb079e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6fe8642b338444c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a269233f5e377b07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa4a847a11be5cf1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a7d1e04e4c54653",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "e3a0d3fe2c295061",
+    "type": "split",
+    "children": [
+      {
+        "id": "741863f84a6ebbbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3c8a2626f57bde1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "img/Pasted image 20221104195043.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d9cec2e9964be204",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a0aa87e3b192291",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "231465add55789ba",
+  "lastOpenFiles": [
+    "img/Pasted image 20221103212657.png",
+    "img/Pasted image 20221104152334.png",
+    "img/Pasted image 20221103212114.png",
+    "img/Pasted image 20221103210035.png",
+    "img/Pasted image 20221103203520.png",
+    "img/Pasted image 20221012112806.png",
+    "img/Pasted image 20220929100836.png",
+    "img/Pasted image 20220926204504.png",
+    "img/Pasted image 20220901135837.png",
+    "img/Pasted image 20220831165504.png",
+    "img/Pasted image 20220831165103.png",
+    "Программирование/Паттерны проектирования/Паттерн Команда.md",
+    "Программирование/Паттерны проектирования",
+    "Программирование/Паттерны проектирования/Петтерны проектирования.md",
+    "Программирование/Программирование.md",
+    "Программирование/ООП/ООП.md",
+    "Программирование/Алгоритмы и структуры данных/Структуры данных.md",
+    "Программирование/Алгоритмы и структуры данных/Объекты в моделировании алгоритмов.md",
+    "Путеводитель.md",
+    "Программирование/Алгоритмы и структуры данных/Список.md",
+    "Программирование/ООП",
+    "Программирование/Untitled.md",
+    "Программирование/ООП/Полиморфизм.md",
+    "Программирование/ООП/Наследование.md",
+    "Программирование/Docker/Отличие COPY и ADD.md",
+    "ЭВМ/Контроллер прерываний.md",
+    "ЭВМ/Прямая (Абсолютная) адресация.md",
+    "Программирование/ООП/Инкапсуляция.md",
+    "Программирование/Алгоритмы и структуры данных/Сортировка вставками.md",
+    "ЭВМ/Система команд ЭВМ.md",
+    "ЭВМ/ЭВМ.md",
+    "ЭВМ/Обобщенная структурная схема персональных ЭВМ.md",
+    "ЭВМ/Непосредственная адресация.md",
+    "ЭВМ/Регистровая адресация.md",
+    "ЭВМ/Косвенная адресация.md",
+    "ЭВМ/Неявная адресация.md",
+    "Программирование/ООП/Массив.md",
+    "Программирование/Pandas/Структуры данных в Pandas.md"
+  ]
+}

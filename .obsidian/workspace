@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "5cde2638e22ddb1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f46032e6c76a49f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Нейронная сеть Хопфилда.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b6088bf5dae5d15",
+    "type": "split",
+    "children": [
+      {
+        "id": "903baeb8d9bb079e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6fe8642b338444c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a269233f5e377b07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa4a847a11be5cf1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224
+  },
+  "right": {
+    "id": "e3a0d3fe2c295061",
+    "type": "split",
+    "children": [
+      {
+        "id": "741863f84a6ebbbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3c8a2626f57bde1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Нейронная сеть Хопфилда.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9cec2e9964be204",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a0aa87e3b192291",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2f46032e6c76a49f",
+  "lastOpenFiles": [
+    "Data Science/Рекуррентные нейронные сети.md",
+    "Data Science/Классы нейронных сетей.md",
+    "Data Science/Machine Learning.md",
+    "Data Science/Data Science.md",
+    "Путеводитель.md",
+    "Data Science/Perceptron Learning Rule.md",
+    "Передаточные функции нейронов.md",
+    "Data Science/Устройство Нейрона.md",
+    "Data Science/Логическая регрессия.md",
+    "Data Science/Функции активации.md"
+  ]
+}

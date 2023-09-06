@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 22,
+  "theme": "system",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "big-math"
+  ],
+  "accentColor": ""
+}

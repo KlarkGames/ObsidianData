@@ -1,0 +1,4 @@
+{
+  "pythonInterpreter": "/home/alex/Документы/Obsidian/venv",
+  "setupScript": "print(\"Hello world\")"
+}
